@@ -1,0 +1,35 @@
+
+p{
+    font: 'Calibri'
+
+}
+.btn{
+    border-color: white;
+    outline: none;
+    font-size: 20px;
+    font-family: monospace;
+    color: #fff;
+    background: linear-gradient(to left,#8360c3,#2ebf91);
+    text-decoration: none;
+    padding: 10px 50px;
+    border-radius: 10px;
+    background-size: 200%;
+    transition: .5s;
+}
+.btn:hover{
+    background-position: right;
+}
+.picture
+
+
+.pct{
+    width: 400px;
+    height:auto;
+}
+
+.header{
+    height: 20px;
+    
+    align-items: center;
+    
+}
